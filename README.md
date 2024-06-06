@@ -91,7 +91,7 @@ These clones are also mounted (and synced to the VM) and available on the host m
 If you make changes to the plugins and want to update them on the maubot instance, wun commands like this on the VM:
 
 ```
-cd /home/vagrant/maubot-fedora/
+cd /home/vagrant/_maubot-fedora/
 mbc build -u
 ```
 
